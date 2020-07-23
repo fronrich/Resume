@@ -1,0 +1,122 @@
+{
+  "Name" : "Fronrich Puno",
+
+  "Graduation" : "Class of 2021",
+  
+  "Social" : {
+    "GitHub" : [
+      "fab fa-github-alt",
+      "https://github.com/fronrich"
+    ],
+    "Tableau-Public" : [
+      "fas fa-paint-brush",
+      "https://public.tableau.com/profile/fronrich.puno#!/"
+    ],
+    "LinkedIn" : [
+      "fab fa-linkedin-in",
+      "https://www.linkedin.com/in/fronrich-puno/"
+    ],
+    "Instagram" : [
+      "fab fa-instagram", 
+      "https://www.instagram.com/officialpingmusic/"
+    ],
+    "Soundcloud" : [
+      "fab fa-soundcloud",
+      "https://soundcloud.com/ii_png"
+    ]
+    
+    
+  },
+
+  "Education" : {
+    "Major" : "BSA in Computer Science and Philosophy",
+    "School" : "The University of Texas at Austin",
+    "GPA" : 3.3,
+    "Courses" : [
+      "Operating Systems",
+      "Autonomous Intelligent Robots",
+      "Data Structures",
+      "Computer Architecture",
+      "Statistics",
+      "Linear Algebra"
+    ]
+  },
+
+  "Career" : [
+    {
+      "Company" : "Tableau",
+      "Role" : "Solution Engineer",
+      "StartDate" : "May 2020",
+      "EndDate" : "August 2020",
+      "Highlights" : [
+        "Performed investigative analysis through VisQL into issues such as company profit loss, systemic racism, and the spread of COVID-19",
+        "Researched data governance to ensure clients maintained HIPPA and FERPA compliance when hosting on Tableau server and embedding dashboards on websites using REST API",
+        "Tailored dashboard interfaces to optimize user experience",
+        "Integrated Python TabPy for predictive analysis",
+        "Leveraged custom SQL to optimize BI capabilities"
+      ]
+    },
+    {
+      "Company" : "Edge Learning",
+      "Role" : "Contracted Software Engineer",
+      "StartDate" : "December 2019",
+      "EndDate" : "May 2020",
+      "Highlights" : [
+        "Frontend development using ReactJS and React-Redux",
+        "Conducted UX research for adolescent age demographic"
+      ]
+    },
+    {
+      "Company" : "UT Austin",
+      "Role" : "Undergraduate Researcher",
+      "StartDate" : "January 2019",
+      "EndDate" : "May 2019",
+      "Highlights" : [
+        "Built robotics applications in C++ and Python with ROS middleware",
+        "Developed natural language processing system in Python with fast Fourier Transform"
+      ]
+    }
+  ],
+
+  "Personal" : [
+    {
+      "Title" : "Capstone Workbook",
+      "Date" : "August 2020",
+      "Summary" : "Data visualization for social change. Data cleaned with Tableau Prep and visualized in Tableau Desktop. I got the idea after attending a BLM protest. I want to help people understand what they know."
+    },
+    {
+      "Title" : "Flare",
+      "Date" : "October 2019",
+      "Summary" : "Disaster relief app aiding in personnel deployment. Software isolates people from drone images using ML and then displays risk markers in MapView API based on population density. Frontend created with Node.js and React Native."
+    },
+    {
+      "Title" : "Longhorn Dining",
+      "Date" : "July 2019",
+      "Summary" : "Flask web-app deployed on Microsoft Azure. Provides accessibility to university students with dietary restrictions. Lead UI/UX developer. Published in The Daily Texan and later made native to the UT menus."
+    }
+  ],
+
+  "Proficiency" : {
+    "JavaScript/TypeScript" : 10,
+    "HTML5/CSS3" : 9,
+    "C/C++" : 9,
+    "Java" : 8,
+    "Python" : 5,
+    "x86" : 4
+  },
+
+  "Skills" : [
+    "Node.js",
+    "React",
+    "AWS",
+    "Expo APIs",
+    "Tableau",
+    "Big Data",
+    "Full-Stack",
+    "Adobe Suite",
+    "UI/UX",
+    "Graphic Design",
+    "Mobile-App Development",
+    "Web Development"
+  ]
+}
